@@ -656,3 +656,4 @@ if (text.includes("!alay")){
 
 
 
+}
