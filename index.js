@@ -655,3 +655,4 @@ if (text.includes("!alay")){
 
 
 }
+}
